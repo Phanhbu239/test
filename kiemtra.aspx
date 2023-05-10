@@ -37,6 +37,10 @@
         .auto-style9 {
             text-align: left;
         }
+        .auto-style10 {
+            text-align: center;
+            width: 416px;
+        }
     </style>
 </head>
 <body>
@@ -60,13 +64,13 @@
                     <img alt="" class="auto-style3" src="chuong5/hình%20GD/logo.png" /><br />
                     <table align="center" class="auto-style1" style="background-color: #C0C0C0">
                         <tr>
-                            <td><span style="white-space:pre-wrap;"><span class="auto-style6">
+                            <td><span style="white-space: pre-wrap;"><span class="auto-style6">
                                 <br />
                                 </span><span class="auto-style8"><strong>Lorem ipsum dolor sit asmet?</strong></span></span><table align="center" class="auto-style7">
                                     <tr>
                                         <td>
                                             <meta charset="utf-8" />
-                                            <span class="auto-style5" style="white-space:pre-wrap;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique consequat placerat. Vestibulum auctor pellentesque sem, eu posuere erat hendrerit quis. Maecenas vel consequat turpis. Nam facilisis, ligula in mattis sodales, augue justo tristique nulla, sed lacinia ante eros ut mi. Morbi vitae diam augue. Aliquam vel mauris a nibh auctor commodo. Praesent et nisi eu justo eleifend convallis. Quisque suscipit maximus vestibulum. Phasellus congue mollis orci, sit amet luctus augue tristique eu. Donec vulputate odio neque, sed semper turpis pellentesque a.</span></td>
+                                            <span class="auto-style5" style="white-space: pre-wrap;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique consequat placerat. Vestibulum auctor pellentesque sem, eu posuere erat hendrerit quis. Maecenas vel consequat turpis. Nam facilisis, ligula in mattis sodales, augue justo tristique nulla, sed lacinia ante eros ut mi. Morbi vitae diam augue. Aliquam vel mauris a nibh auctor commodo. Praesent et nisi eu justo eleifend convallis. Quisque suscipit maximus vestibulum. Phasellus congue mollis orci, sit amet luctus augue tristique eu. Donec vulputate odio neque, sed semper turpis pellentesque a.</span></td>
                                     </tr>
                                 </table>
                                 <br class="auto-style6" />
@@ -75,37 +79,58 @@
                     </table>
                     <table align="center" class="auto-style1">
                         <tr>
-                            <td class="auto-style9">
+                            <td class="auto-style10">
                                 <div class="auto-style9">
                                     <meta charset="utf-8" />
                                     <meta charset="utf-8" />
                                     <meta charset="utf-8" />
                                     <br />
                                     <meta charset="utf-8" />
-                                    <span style="white-space:pre-wrap;">
+                                    <span style="white-space: pre-wrap;">
                                 </div>
                                 <table align="center" class="auto-style1">
                                     <tr>
-                                        <td><span style="white-space:pre-wrap;"><span class="auto-style5"><strong>Lorem ipsum dolor sit amet</strong></span></span></td>
+                                        <td class="auto-style9"><span style="white-space: pre-wrap;"><span class="auto-style5"><strong>Lorem ipsum dolor sit amet</strong></span></span></td>
                                     </tr>
                                 </table>
-                                <br class="auto-style5" />
-                                <span class="auto-style5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non dui sodales, faucibus libero ut, posuere felis. Donec imperdiet suscipit accumsan. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices liquam egestas nunc at </span>
-                                <br class="auto-style5" />
-                                <span class="auto-style5">ullamcorper ultricies. Donec feugiat velit nulla, vel sodales est ullamcorper id. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices vestibulum mattis.</span></span><br />
-                                <br />
+                                <div class="auto-style4">
+                                    <br class="auto-style5" />
+                                    <span class="auto-style5"><span style="white-space: pre-wrap;">
+                                    <asp:Image ID="Image3" runat="server" />
+&nbsp;</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non dui sodales, faucibus libero ut, posuere felis. Donec imperdiet suscipit accumsan. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices liquam egestas nunc at </span>
+                                    <br class="auto-style5" />
+                                    <span class="auto-style5">ullamcorper ultricies. Donec feugiat velit nulla, vel sodales est ullamcorper id. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices vestibulum mattis.</span></span><br />
+                                    <br />
+                                </div>
                             </td>
                             <td>
                                 <meta charset="utf-8" />
-                                <span style="white-space:pre-wrap;"><span class="auto-style5">Lorem ipsum dolor sit amet</span><br class="auto-style5" />
-                                <span class="auto-style5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non dui sodales, faucibus libero ut, posuere felis. Donec imperdiet suscipit accumsan. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices liquam egestas nunc at </span>
+                                <span style="white-space: pre-wrap;"><span class="auto-style5"></span>
+                                <table align="center" class="auto-style1">
+                                    <tr>
+                                        <td class="auto-style9">
+                                            <meta charset="utf-8" />
+                                            <span class="auto-style5" style="white-space: pre-wrap;"><strong>Lorem ipsum dolor sit amet</strong></span></td>
+                                    </tr>
+                                </table>
                                 <br class="auto-style5" />
-                                <span class="auto-style5">ullamcorper ultricies. Donec feugiat velit nulla, vel sodales est ullamcorper id. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices vestibulum mattis.</span></span></td>
+                                <span class="auto-style5">
+                                <asp:Image ID="Image2" runat="server" Height="83px" ImageUrl="~/chaycode/chuong5/hình GD/345821547_1669643436821769_8450103976434599150_n.png" Width="108px" />
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non dui sodales, faucibus libero ut, posuere felis. Donec imperdiet suscipit accumsan. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices liquam egestas nunc at </span>
+                                <br class="auto-style5" />
+                                <span class="auto-style5">ullamcorper ultricies. Donec feugiat velit nulla, vel sodales est ullamcorper id. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices vestibulum mattis.></span></td>
                             <td>
+                                <table align="center" class="auto-style1">
+                                    <tr>
+                                        <td><span style="white-space: pre-wrap;"><span class="auto-style5" style="white-space:pre-wrap;"><strong>Lorem ipsum dolor sit amet</strong></span></span></td>
+                                    </tr>
+                                </table>
                                 <meta charset="utf-8" />
                                 <meta charset="utf-8" />
-                                <span style="white-space:pre-wrap;"><span class="auto-style5">Lorem ipsum dolor sit amet</span><br class="auto-style5" />
-                                <span class="auto-style5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non dui sodales, faucibus libero ut, posuere felis. Donec imperdiet suscipit accumsan. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices liquam egestas nunc at </span>
+                                <span style="white-space:pre-wrap;">
+                                <br class="auto-style5" />
+                                <asp:Image ID="Image1" runat="server" />
+                                <span class="auto-style5">&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non dui sodales, faucibus libero ut, posuere felis. Donec imperdiet suscipit accumsan. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices liquam egestas nunc at </span>
                                 <br class="auto-style5" />
                                 <span class="auto-style5">ullamcorper ultricies. Donec feugiat velit nulla, vel sodales est ullamcorper id. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices vestibulum mattis.</span></span><meta charset="utf-8" /></td>
                         </tr>
